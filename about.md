@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey there! My name is Zachary, I'm from Trinidad and Tobago and I love programming, EDM, Pokemon, anime and the lost goes onnnnnnn
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zachary.orr@gmail.com](mailto:zachary.orr@gmail.com)
