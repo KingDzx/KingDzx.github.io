@@ -2,7 +2,7 @@
 layout: post
 title: First Post!
 date: 2018-07-31 16:16:01 -0400
-category: [ coding, life ]
+category: life coding
 ---
 
 This is my first post using github pages.
