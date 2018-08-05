@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there! My name is Zachary, I'm from Trinidad and Tobago and I love programming, EDM, Pokemon, anime and the lost goes onnnnnnn
+Hey there! My name is Zachary, I'm from Trinidad and Tobago and I love programming, EDM, Pokemon, anime and the list goes onnnnnnn
 
 ### Contact me
 
